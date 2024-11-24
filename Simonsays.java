@@ -8,7 +8,7 @@ public class Simonsays {
         System.out.flush();
     }
 
-   // using method for pausing 3 second
+   // using method for pausing 3 seconds
     public static void pause() {
         try {
             Thread.sleep(3000);
